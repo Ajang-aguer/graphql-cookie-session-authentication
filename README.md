@@ -1,0 +1,1 @@
+# graphql-cookie-session-authentication
